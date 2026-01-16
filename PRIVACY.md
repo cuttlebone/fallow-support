@@ -16,4 +16,4 @@ Fallow does not use any third-party analytics (like Google Analytics or Firebase
 Since we do not store your data, you are responsible for your own backups. You can use the in-app "Backup" feature to export your data and store it safely.
 
 ## 4. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: [你的邮箱地址@gmail.com]
+If you have any questions about this Privacy Policy, please contact us at: [fallow.official@journeyschina.com]
