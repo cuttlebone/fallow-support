@@ -11,7 +11,7 @@ Fallow is a privacy-focused, local-first menstrual cycle tracker inspired by the
 If you have any questions, feedback, or need assistance, please reach out to us.
 如果您有任何疑问、反馈或需要帮助，请联系我们。
 
-📧 **Email**: [你的邮箱地址@gmail.com] (请替换这里)
+📧 **Email**: [fallow.official@journeyschina.com] 
 
 ---
 
